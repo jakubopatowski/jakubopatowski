@@ -3,7 +3,7 @@
 Programming! (C++ and Python)
 
 - 🌱 I’m currently learning:
-How AI frameworks works. I'm mostly interested in math behind it.
+How all kinds of AI frameworks works. I'm mostly interested in math behind it.
 
 - 💞️ I’m looking to collaborate on:
 All kind of interesting projectsc. I'm not focusing on any particular technology/framework/project right now. My favorite language is C++ and Python.
